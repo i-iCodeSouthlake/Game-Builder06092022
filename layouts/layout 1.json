@@ -23,7 +23,7 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 0,
+						"x": 1,
 						"y": 0,
 						"width": 1708,
 						"height": 960,
@@ -111,8 +111,8 @@
 						}
 					},
 					"world": {
-						"x": 260,
-						"y": 202,
+						"x": 223,
+						"y": 200,
 						"width": 104,
 						"height": 96,
 						"originX": 0.5,
