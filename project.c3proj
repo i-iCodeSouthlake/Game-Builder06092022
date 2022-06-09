@@ -21,13 +21,38 @@
 			"author": "Scirra",
 			"version": "r293.3",
 			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Sprite",
+			"name": "Sprite",
+			"author": "Scirra",
+			"version": "r293.3",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "bound",
+			"name": "Bound to layout",
+			"author": "Scirra",
+			"version": "r293.3",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "EightDir",
+			"name": "8 Direction",
+			"author": "Scirra",
+			"version": "r293.3",
+			"bundled": false
 		}
 	],
 	"uniqueId": "a8fb0a7l2ub",
 	"objectTypes": {
 		"items": [
 			"Text",
-			"TiledBackground"
+			"TiledBackground",
+			"Sprite"
 		],
 		"subfolders": []
 	},
